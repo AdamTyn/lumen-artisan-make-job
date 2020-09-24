@@ -9,3 +9,6 @@ protected $commands = [
 	\AdamTyn\Lumen\Artisan\JobMakeCommand::class
 ];
 ```
+
+# Upgrade
+[2020-09-24] 指令支持 `--sync` 选项
