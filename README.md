@@ -1,5 +1,5 @@
 # php artisan make:job
-移植Laravel的 `php artisan make:job` [快速启动服务]指令到Lumen
+移植Laravel的 `php artisan make:job` [快速创建任务]指令到Lumen
 
 # Usage
 在 **'app/commands/kernel.php'** 中注册指令：
