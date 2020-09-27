@@ -1,6 +1,12 @@
 {
     "name": "adamtyn/lumen-artisan-make-job",
     "description": "移植Laravel的 `php artisan make:job` [快速创建任务]指令到Lumen",
+    "keywords": [
+        "framework",
+        "laravel",
+        "lumen",
+        "adamtyn"
+    ],
     "type": "library",
     "license": "MIT",
     "authors": [

@@ -19,7 +19,7 @@ class JobMakeCommand extends GeneratorCommand
      *
      * @var string
      */
-    protected $description = 'Create a new job class';
+    protected $description = '新建一个任务类';
 
     /**
      * The type of class being generated.
